@@ -1,0 +1,7 @@
+A Sudoku in terminal version
+In this game, there are 3 levels(easy, medium and hard). Hope you enjoy!
+
+Installation
+sudo apt-get install libncurses5-dev
+sudo apt-get install libncursesw5-dev
+make
