@@ -15,6 +15,11 @@ Linux
 Installation
 -------------
 Type the following command in the command line:
-sudo apt-get install libncurses5-dev
-sudo apt-get install libncursesw5-dev
-make
+$ sudo apt-get install libncurses5-dev
+$ sudo apt-get install libncursesw5-dev
+$ make
+ 
+-------------
+Execution
+-------------
+$ ./sudoku
